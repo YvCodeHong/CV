@@ -1,6 +1,6 @@
 ## Yvonne Tang 
 
-A bi-linguist in English and Mandarin, I am currently undertaking a 12-week intensive coding bootcamp at Makers Academy. Prior to this, I spent eight years in China where I first studied the language and then worked in the education and PR field. My curiosity towards tech largely stems from experiencing first-hand the explosion of China’s tech industry. Products such as WeChat, Taobao and Alipay left me in awe. I was fixated at how a product can be created which would change the way people functions and go about with their lives included myself. I am particularly fascinated in the e-commerce and payments, the latter being the area that I’m most interested in and would love to pursue after my 12 weeks of coding. 
+A bi-linguist in English and Mandarin, I am currently undertaking a 12-week intensive coding bootcamp at Makers Academy. Prior to this, I spent eight years in China where I first studied the language and then worked in the education and PR field. My curiosity towards tech largely stems from experiencing first-hand the explosion of China’s tech industry. Products such as WeChat, Taobao and Alipay left me in awe. I was fixated at how a product can be created in a way that changes the way we interact, and more importantly solve problems. I am fascinated in the e-commerce and e-payments sector, the latter being the area that I’m most interested in and would love to pursue after my 12 weeks of coding. 
 
 ## Skills
 
