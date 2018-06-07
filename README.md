@@ -62,4 +62,12 @@ In my final year disseration, I looked into whether the introduction of digital 
 
 
 #### Interest ####
-- 
+- Fintech
+- Listening to podcast 
+- Trying to gain a better understanding in Blockchain 
+- At every opportunity, I try to find time to 
+- Reading 
+- I like to have fun whilst learning. 
+
+
+
