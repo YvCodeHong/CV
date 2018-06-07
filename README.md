@@ -1,4 +1,4 @@
-## Your Name
+## Yvonne Tang 
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
@@ -34,17 +34,23 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### Beijing Language and Culture University (September 2009 - July 2011) 
+
+- Chinese Language Diploma 
+- I was awarded a scholarship from Beijing Municipal Government Scholarship for my final year of the course. 
+
+#### University of York (October 2006 to July 2009)
+
+ BA Sociology (2:1)
+ 
 
 #### Any other qualifications
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
+** Hill & Knowlton Strategies (2014 to 2015) 
+**Teaching English ** (start_date to end_date)    
+*Self employed*  
+**Impact Asia PR ** (Nov 2011 to November 2012)   
 *Your job title*  
