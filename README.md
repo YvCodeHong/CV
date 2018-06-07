@@ -50,15 +50,14 @@ In my final year disseration, I looked into whether the introduction of digital 
 
 #### Any other qualifications
 
-## Experience
-
- Freelancer with MView (China) (July 2015 - February 2018)
+#### MView PR (China) (July 2015 - February 2018)
+     Freelancer 
+    
+#### Hill & Knowlton Strategies WPP, (Beijing) - (July 2014 to March 2015)
+      Senior Account Executive 
  
- Hill & Knowlton Strategies WPP, (Beijing) - (July 2014 to March 2015)
-  Senior Account Executive 
- 
- Teaching English (Beijing) - (December 2012 to June 2014)    
-  Self employed  
+#### Teaching English (Beijing), - (December 2012 to June 2014)    
+       Self employed  
 
- Impact Asia PR (Nov 2011 to November 2012) 
-  Account Executive  
+#### Impact Asia PR (Nov 2011 to November 2012) 
+       Account Executive  
