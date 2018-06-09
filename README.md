@@ -1,6 +1,7 @@
 ## Yvonne Tang 
 
 A bi-linguist in English and Mandarin, I’ve spent the past eight years in China, working in the education and PR sectors. Whilst there, I became fascinated and in awe in the explosion of new technology. Taobao, WeChat and Alipay are to name a few of the products that became a daily fixature in my life. I was also curious as to how these products were developed and how they seamlessly transformed a society attitude and behaviour within a few years. An example would be the shift from a ‘cash-only’ to a ‘mobile-only-payment’ society. 
+
 I’m currently enrolled at Makers Academy, a 16-week intensive development bootcamp, training to become a junior software developer. I’m seeking to join a company with a mission to make change. 
 
 ## Skills
