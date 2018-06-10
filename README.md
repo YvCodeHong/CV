@@ -35,7 +35,7 @@ As a result of my ability to speak both English and Mandarin this enabled me to 
 #### University of York, (October 2006 to July 2009)
 -  BA Sociology (2:1)
 
-Modules includes New Media and Web 2.0 
+Modules includes "New Media and Web 2.0" 
  
 In my final year dissertation, I looked into whether the introduction of digital cameras was solely the reason behind our   change in attitudes towards the circulation of photography to the extent it has created social changes or if it was the combined inception of digital cameras and Web 2.0. My disseration and a module in New Media Technology was the start in my curiosity towards the technological world and the effect it has on our lives. 
 
