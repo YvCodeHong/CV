@@ -1,24 +1,18 @@
 ## Yvonne Tang 
 
-I'm currently training to become a junior software developer at Makers Academy, a 16-week intensive coding bootcamp. A fluent speaker in both English and Mandarin, I bring with me a bicultural perspective, providing a deep and informed understanding of cross-cultural relations between China and the UK. I have particular in interest in Fintech. 
+I recently returned to London after spending eight years in China. A country where customers are told that they need to pay ‘exact change’ if they are to pay by cash otherwise the ‘sensible’ decision would be to use either WeChat pay or Alipay, two of China’s biggest payment apps. It is the experiences in China that defines my passion in tech and the desire to become a junior software engineer. It is also why I’ve enrolled in Makers Academy’s 16-week coding bootcamp. 
 
-Prior,to Makers I spent eight years in China, working in the education and PR sectors. Whilst there, I became fascinated and in awe in the explosion of new technology. Taobao, WeChat and Alipay are to name a few of the products that became a daily fixature in my life. I was also curious as to how these products were developed and how they seamlessly transformed a society's attitude and behaviour within a few years. An example would be the shift from a ‘cash-only’ to a ‘mobile-only-payment’ society. 
+A fluent speaker in both English and Mandarin, I have a particular interest in the Fintech sector and would love to work for an energetic start-up company. 
 
 ## Skills
 
-#### Communication
+#### Communication/
 
-As a PR executive at both Cohn & Wolfe, Hill & Knowlton and later a freelancer at MviewPR. My role was to communicate the client's key messages to both the International and the Chinese media, as well as communicating effectively with both chinese colleagues and international collagues either through English or Mandarin. This resulted in successfully organising press events, Rolls-Royce Motor Car’s Beijing Auto Show is example of a press event where I helped to reached out to the Chinese and International media on the launch of their latest models in China. In addition, I was able to develop and maintain solid relationship with Chinese and International media. 
+As a PR executive at both Cohn & Wolfe, Hill & Knowlton and later a freelancer at MviewPR. My role was to communicate the client's key messages to both the International and the Chinese media, as well as communicating effectively with both chinese colleagues and international collagues either through English or Mandarin. This resulted in successfully organising press events; Rolls-Royce Motor Car’s Beijing Auto Show is one example of a press event where I facilitated in reaching out to the Chinese and International Media. 
+
+As a result of my ability to speak both English and Mandarin this enabled me to create a greater contact pool and receive my own clients which eventually led to me working as a freelancer for MviewPR, a PR start-up company where I translated press materials from Chinese to English, as well developing campaigns for leading international healthcare companies such as Lilly, raising awareness on various health issues in China, this included, diabetes, sexual health.
 
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
@@ -40,8 +34,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### University of York, (October 2006 to July 2009)
 -  BA Sociology (2:1)
+
+Modules includes New Media and Web 2.0 
  
-In my final year disseration, I looked into whether the introduction of digital cameras was solely the reason behind our   change in attitudes towards the circulation of photography to the extent it has created social changes or if it was the combined inception of digital cameras and Web 2.0. My disseration and a module in New Media Technology was the start in my curiosity towards the technological world and the effect it has on our lives. 
+In my final year dissertation, I looked into whether the introduction of digital cameras was solely the reason behind our   change in attitudes towards the circulation of photography to the extent it has created social changes or if it was the combined inception of digital cameras and Web 2.0. My disseration and a module in New Media Technology was the start in my curiosity towards the technological world and the effect it has on our lives. 
 
 #### Any other qualifications
 
@@ -61,4 +57,5 @@ My role as an Account Executive involved raising the profile of international br
 Responsbilities includes: providing market insights of the Chinese markets, translating media articles from Chinese to English, handling day to day media relations for the client, and onsite support to major press events. 
 
 #### Interest ####
-I love to travelling to different countries with different cultures as that provides me with inspiration to create and bring new ideas and perspetives. I also enjoy listening to podcast whether that is current affairs, topics on China, tech, Fintech and e-commerce. 
+I love travelling to different countries with different cultures as it gives me a different perspective and inspiration. 
+I also enjoy listening to podcast whether that is current affairs, topics on China, tech, Fintech and e-commerce, as well as meeting new people. 
