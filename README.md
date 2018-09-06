@@ -1,8 +1,21 @@
 ## Yvonne Tang 
+<p align="center">
+<a href="https://www.linkedin.com/in/yvonne-tang-b00998a/">
+<img src="https://i.imgur.com/h9R10xm.png" title="source: imgur.com" alt="linkedin" hspace="50" height="75" width="75"/></a>
+
+
 
 I recently returned to London after spending eight years in China. A country where customers are told that they need to pay ‘exact change’ if they are to pay by cash otherwise the ‘sensible’ decision would be to use either WeChat pay or Alipay, two of China’s biggest payment apps. It is the experiences in China that defines my passion in tech and the desire to become a junior software engineer. It is also why I’ve enrolled in Makers Academy’s 16-week coding bootcamp. 
 
 A fluent speaker in both English and Mandarin, I have a particular interest in the Fintech sector and would love to work for an energetic start-up company. 
+
+## Projects 
+| Project | Summary | Technologies |
+|----------|----------|----------|
+|[Meshenger](https://github.com/YvCodeHong/messenger-app) | Final Project at Makers: A iPhone messenger app that sends direct messages through bluetooth and Wifi. |  Swift with XCTest for testing |
+|[Acebook](YvCodeHong/acebook-nice-team) | Facebook clone which includes log-in, posts and comments. Written in Ruby and re-written in React | React, Ruby, Rails | [Heroku](http://acebook-frontend.herokuapp.com/) |
+|[Rock,Scissor, Paper](https://github.com/YvCodeHong/rps-challenge) | A web application that plays Rock, Scissor, Paper. | Ruby, OOD, TDD, Sinatra |
+
 
 ## Skills
 
